@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\bin\Debug\ExecFinalLista.exe.config
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\bin\Debug\ExecFinalLista.exe
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\bin\Debug\ExecFinalLista.pdb
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\obj\Debug\ExecFinalLista.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\obj\Debug\ExecFinalLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\obj\Debug\ExecFinalLista.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\obj\Debug\ExecFinalLista.exe
+C:\Users\Ricardo\Desktop\Curso C#\ExecFinalLista\ExecFinalLista\obj\Debug\ExecFinalLista.pdb
