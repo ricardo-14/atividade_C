@@ -22,6 +22,7 @@ namespace ExecFinalLista
                 { 
                 
                     Console.WriteLine("Digite as respostas que você colocou na prova: ");
+                    for (int i = 0; i < 10; i++) { }
                     string r1 = Console.ReadLine().ToUpper();
                     string r2 = Console.ReadLine().ToUpper();
                     string r3 = Console.ReadLine().ToUpper();
